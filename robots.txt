@@ -12,5 +12,5 @@ Disallow: /vendors/
 Disallow: /fancybox/
 Disallow: /categories/
 
-Sitemap: https://xn--e1tu68bp7t.xn--6qq986b3xl/sitemap.xml
-Sitemap: https://xn--e1tu68bp7t.xn--6qq986b3xl/baidusitemap.xml
+Sitemap: http://xn--e1tu68bp7t.xn--6qq986b3xl/sitemap.xml
+Sitemap: http://xn--e1tu68bp7t.xn--6qq986b3xl/baidusitemap.xml
